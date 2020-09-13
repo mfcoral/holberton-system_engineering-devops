@@ -1,2 +1,2 @@
 #!/bin/bash
--f type /tmp /iamafile
+-f type/tmp/iamafile
