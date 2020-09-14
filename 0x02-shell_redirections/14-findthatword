@@ -1,2 +1,1 @@
-#!/bin/bash
-#root @ Linux-world: ~ # grep -n root / etc / passwd / etc / shadow
+#! /bin/bash
