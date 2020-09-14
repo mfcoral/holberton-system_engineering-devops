@@ -16,8 +16,8 @@
 21-reverse
 22-users_and_homes
 3-twofiles this script display the content of /etc/passwd and /etc/hosts.
-4-lastlines
-5-firstlines
+4-lastlines this script display the last 10 lines of /etc/passwd.
+5-firstlines this script display the first 10 lines of /etc/passwd.
 6-third_line
 7-file
 8-cwd_state
