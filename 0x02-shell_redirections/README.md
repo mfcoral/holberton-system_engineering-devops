@@ -1,7 +1,7 @@
 #Descripcion de lo que hace cada comando en el proyecto 
 "0-hello_world  this script that prints "Hello, World", followed by a new line to the standard output.
 1-confused_smiley this script that displays a confused smiley.
-10-no_more_js this script display the content of the /etc/passwd file.
+10-no_more_js this script
 11-directories this 
 12-newest_files
 13-unique
