@@ -1,0 +1,2 @@
+#!/bin/bash
+# Tell awk to print the third input record of the current file
