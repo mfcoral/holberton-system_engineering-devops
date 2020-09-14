@@ -1,2 +1,2 @@
 #!/bin/bash
-# Tell awk to print the third input record of the current file
+#awk 'FNR==3 {print}'iacta
