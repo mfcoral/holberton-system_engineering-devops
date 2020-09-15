@@ -18,7 +18,7 @@
 3-twofiles this script display the content of /etc/passwd and /etc/hosts.
 4-lastlines this script display the last 10 lines of /etc/passwd.
 5-firstlines this script display the first 10 lines of /etc/passwd.
-6-third_line
+6-third_line this script displays the third line of the file iacta.
 7-file
 8-cwd_state
 9-duplicate_last_line
